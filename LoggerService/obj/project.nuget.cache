@@ -1,20 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ON+wxjswEQdUvbPMJA6PzqACvcC1RTjQ3oFQn1yuUoCeLbkKcUqkUDLa9qoUoG6jAdDqcCztIlJBLCd+CIO0bA==",
+  "dgSpecHash": "FE6uC1TDcaauUt43Si6bzzjpU647C1RCTAEWyLD5UYn0OA8gJ6BD9xPXORXdcPxVrmA90rm7HulBIy5ngcnhuA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Евгения Акимкина\\2023-2024\\ПП\\Лабораторная 1\\lr-1\\lab-master\\LoggerService\\LoggerService.csproj",
+  "projectFilePath": "C:\\Users\\Евгения Акимкина\\2023-2024\\ПП\\Лабораторная 2\\CompanyEmpolyees-Lab2\\CompanyEmpolyees-Lab2\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Евгения Акимкина\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\Евгения Акимкина\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
-    "C:\\Users\\Евгения Акимкина\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\Евгения Акимкина\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
-    "C:\\Users\\Евгения Акимкина\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\Евгения Акимкина\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\Евгения Акимкина\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\Евгения Акимкина\\.nuget\\packages\\nlog\\5.2.4\\nlog.5.2.4.nupkg.sha512",
-    "C:\\Users\\Евгения Акимкина\\.nuget\\packages\\nlog.extensions.logging\\5.3.4\\nlog.extensions.logging.5.3.4.nupkg.sha512",
-    "C:\\Users\\Евгения Акимкина\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
-    "C:\\Users\\Евгения Акимкина\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\Евгения Акимкина\\.nuget\\packages\\nlog\\5.2.4\\nlog.5.2.4.nupkg.sha512"
   ],
   "logs": []
 }
